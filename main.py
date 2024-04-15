@@ -1,6 +1,7 @@
 import serial
 import time
 
+
 # Configurações da porta serial
 porta_serial = 'COM5'  # Altere para a porta serial correta
 baud_rate = 115200  # Taxa de transmissão em bps
